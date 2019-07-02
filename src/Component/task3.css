@@ -1,0 +1,21 @@
+.Form{
+    text-align: center;
+  background-color: #282c34;
+  padding: 100px 0px 100px 0px;
+  color: white
+}
+.sub{
+    margin: 20px;
+}
+button{
+    border: none;
+    height: 25px;
+    background: coral;
+    width: 115px;
+}
+input{
+    margin-left: 20px;
+}
+p{
+    color:#61ec61;
+}
